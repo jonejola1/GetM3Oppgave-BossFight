@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M3Uke2Students", "..\M3Uke2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayersOppgave", "..\PlayersOppgave\PlayersOppgave.csproj", "{215F9D0F-FC15-4C48-813C-01C7216F5A95}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "m3 oppgaver", "m3 oppgaver", "{7FA4C770-36D3-4280-913C-B5216E8C9787}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,6 +32,11 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{63203713-5C37-4626-A1A9-271B3DD93B97} = {7FA4C770-36D3-4280-913C-B5216E8C9787}
+		{CCB7E937-F8B9-4598-9A24-C2B6B9811E8C} = {7FA4C770-36D3-4280-913C-B5216E8C9787}
+		{215F9D0F-FC15-4C48-813C-01C7216F5A95} = {7FA4C770-36D3-4280-913C-B5216E8C9787}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {298F26C7-D6EC-4036-A0E0-2B60554BA8A8}
