@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetM3Oppgaver", "GetM3Oppgaver.csproj", "{63203713-5C37-4626-A1A9-271B3DD93B97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M3-BossFight", "M3-BossFight.csproj", "{63203713-5C37-4626-A1A9-271B3DD93B97}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M3Uke2Students", "..\M3Uke2Students\M3Uke2Students.csproj", "{CCB7E937-F8B9-4598-9A24-C2B6B9811E8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayersOppgave", "..\PlayersOppgave\PlayersOppgave.csproj", "{215F9D0F-FC15-4C48-813C-01C7216F5A95}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{63203713-5C37-4626-A1A9-271B3DD93B97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63203713-5C37-4626-A1A9-271B3DD93B97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63203713-5C37-4626-A1A9-271B3DD93B97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCB7E937-F8B9-4598-9A24-C2B6B9811E8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCB7E937-F8B9-4598-9A24-C2B6B9811E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCB7E937-F8B9-4598-9A24-C2B6B9811E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCB7E937-F8B9-4598-9A24-C2B6B9811E8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{215F9D0F-FC15-4C48-813C-01C7216F5A95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{215F9D0F-FC15-4C48-813C-01C7216F5A95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{215F9D0F-FC15-4C48-813C-01C7216F5A95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{215F9D0F-FC15-4C48-813C-01C7216F5A95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
